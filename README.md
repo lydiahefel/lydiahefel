@@ -1,8 +1,12 @@
-### Hi, I'm Lydia!
+### Hi, I'm Lydia! 👋
 
-🌱 I am an undergraduate student at Chaminade University of Honolulu, Hawai`i.
+🌱 I am an undergraduate student at Chaminade University of Honolulu!
 
-🌱 I am double majoring in data science and computer science. 
+🌱 I am a data science and computer science double major!
+
+🌱 I am expected to graduate in May 2026!
+
+🌱 Contact me! lydia.hefel@student.Chaminade.edu
 <!--
 **lydiahefel/lydiahefel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
