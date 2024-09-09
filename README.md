@@ -6,7 +6,7 @@
 
 🌱 I am expected to graduate in May 2026!
 
-🌱 Contact me! lydia.hefel@student.Chaminade.edu
+🌱 Contact me! lydia.hefel@student.chaminade.edu
 <!--
 **lydiahefel/lydiahefel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
